@@ -7,19 +7,19 @@
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Berlin",
+    "twitter": "GDGberlin"
   },
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#F57C00",
-    "backgroundColor": "#F57C00"
+    "themeColor": "#097fb6",
+    "backgroundColor": "#097fb6"
   },
   "firebase": {
-    "name": "hoverboard-v1",
-    "domain": "hoverboard-v1.firebaseapp.com",
-    "database": "https://hoverboard-v1.firebaseio.com",
-    "api": "AIzaSyBjLhKRm1yyjV0RIQSBwwjIrktNdOVes1E",
+    "name": "DevFest Berlin 2019 testing B",
+    "domain": "devfest-berlin-2019-testing-b.firebaseapp.com",
+    "database": "https://devfest-berlin-2019-testing-b.firebaseio.com",
+    "api": " AIzaSyBy-VgzvI4Xg6TA-PMlDxeml754efFw928 ",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -63,23 +63,18 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDG Berlin",
+      "url": "https://twitter.com/GDGBerlin"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "102464661817600154044",
+      "url": "https://plus.google.com/102464661817600154044"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDG Berlin",
+      "url": "https://www.facebook.com/GDGBerlin"
     }
   ],
   "location": {
@@ -116,12 +111,12 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#097fb6",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "GDG DevFest Berlin 2016",
           "youtubeId": "TdpbgRgz6eE",
           "text": "See how it was in 2016"
         },
