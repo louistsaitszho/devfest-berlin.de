@@ -1,7 +1,7 @@
 {
   "url": "https://hoverboard-v1.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "startDate": "2019-11-09T14:00:00+02:00",
+  "endDate": "2019-11-09T20:00:00+02:00",
   "analytics": {
     "prod": "UA-43643469-14",
     "dev": "UA-43643469-9"
@@ -36,7 +36,7 @@
       "year": "numeric"
     }
   },
-  "hashtag": "DevFest17",
+  "hashtag": "DevFest19",
   "disqusShortName": null,
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": null,
