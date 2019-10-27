@@ -1,7 +1,6 @@
 {
   "basepath": "/",
   "url": "https://devfest-berlin-2019-testing-a.firebaseapp.com/",
-  "analytics": "TODO",
   "prefix": "/",
   "firebase": {
     "appId": "1:680045724334:web:466b5fd0b184679207e33f",
